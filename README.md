@@ -1,5 +1,9 @@
 # autoup_fix23
 
+## Docker部署
+DockerHub项目地址：https://hub.docker.com/repository/docker/hisatri/gitcom/general
+Docker：hisatri/gitcom
+
 ## 食用方法
 
 点击右上角的Fork，将此项目Fork到你自己的仓库中。<br>
